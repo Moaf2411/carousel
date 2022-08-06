@@ -71,3 +71,12 @@
 
 
 
+@media screen and (max-width:400px) {
+    .wrapper{
+        height:auto;
+    }  
+    .current img{
+        width:100%;
+        height:auto;
+    } 
+}
