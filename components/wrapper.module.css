@@ -11,7 +11,7 @@
     justify-content: space-around;
     align-items: center;
     height:50px;
-    outline:1px black solid;
+    border:1px black solid;
     border-radius: 15px;
     background-color: rgba(32, 201, 108, 0.488);
     margin: auto;
